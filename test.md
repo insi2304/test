@@ -5,7 +5,7 @@
 <IMG SRC="javascript:document.cookie=true;">
 <IMG SRC=" &#14; javascript:document.cookie=true;">
 <BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=document.cookie=true;>
-<SCRIPT>document.cookie=true;//<</SCRIPT>
+<SCRIPT>document.cookie=true;//<</SCRIPT>x
 <SCRIPT <B>document.cookie=true;</SCRIPT>
 <IMG SRC="javascript:document.cookie=true;">
 <iframe src="javascript:document.cookie=true;> 
